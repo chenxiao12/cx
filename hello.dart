@@ -1,5 +1,5 @@
 main()
 {
-  var str=‘hello’
+  var str='hello';
   print(str);
 }
