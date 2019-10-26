@@ -1,4 +1,5 @@
 main()
 {
-print('hello');
+  var str=‘hello’
+  print(str);
 }
